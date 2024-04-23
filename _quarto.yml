@@ -3,17 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "expert-waffle"
+  title: "expert waffle"
   navbar:
     right:
       - about.qmd
-      - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
 format:
   html:
-    theme: cosmo
+    theme: darkly
     css: styles.css
 
 

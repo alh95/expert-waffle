@@ -1,5 +1,5 @@
 ---
-title: "expert-waffle"
+title: "expert waffle"
 listing:
   contents: posts
   sort: "date desc"
